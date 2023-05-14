@@ -1,0 +1,157 @@
+
+* {
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+    height: auto;
+    width: auto;
+     text-align: center;
+      
+ 
+}header {
+    background-color: beige;
+    border: 100px;
+    border-style: groove;
+    border-color: beige;
+  
+    display: flex;
+    justify-content: space-evenly;
+  
+    
+   
+ 
+
+}
+
+h1 {
+    font-family:"Cursiv Console", "Courier New", monospace;
+    font-size: 40px;
+    color: purple;
+  
+    text-shadow: 1px 1px;
+    font-weight: bold;
+ 
+ 
+
+
+    
+
+}
+
+
+
+header ul {
+
+    display:flex;
+
+   color: purple;
+    gap: 30px;
+  
+    font-family:"Cursiv Console", "Courier New", monospace;
+    font-size: 20;
+    justify-content: center;
+
+}
+
+header ul li {
+    list-style:none;
+    text-decoration:none;
+    color: purple;
+   
+    
+   
+}
+
+header ul li a {
+    text-decoration: none;
+    color: purple;
+    justify-content: right;
+
+}
+header .logo{
+    display:flex;
+
+
+
+  
+   
+     width: 70;
+     height: 70px; 
+}
+
+table { margin-top: 220px;
+
+  
+    width: max-content;
+    margin: auto;
+   
+    text-align: center;
+ 
+    text-decoration:solid;
+}
+
+table,caption{
+    justify-content: center; text-decoration: purple;
+font-size: larger
+;text-shadow: 0cqb;
+    
+}
+table,
+th,
+td {
+
+    border:solid;
+ 
+    border-color: gray ;
+    font-size: larger;
+    column-gap: 1000;
+    row-gap: 1000;
+    border-collapse: collapse;
+}
+
+
+
+
+table thead {
+
+    table-layout:fixed;
+    padding: auto;
+    background-color: wheat;
+    text-decoration:purple
+    
+;
+
+}
+main H2{
+    color: rgb(63, 4, 63);
+    font-family:"Cursiv Console", "Courier New", monospace;
+}
+legend{ color: rgb(63, 4, 63);
+    font-family: "Cursiv Console", "Courier New", monospace;
+    font-size: larger;
+    font-weight: 1000;
+ 
+    border-collapse: collapse;
+}
+form{
+    text-decoration: purple;
+    color: rgb(63, 4, 63);
+    font-family: "Cursiv Console", "Courier New", monospace;
+    font-size: larger;
+    font-weight: bold;
+justify-content: left;
+
+border-collapse: collapse;
+
+}
+footer{
+   position: relative;
+    left: 0;
+    bottom: 0;
+    justify-content: center;
+    text-align: center;
+    width: 100%;
+}
+body{
+    background-color: rgb(245, 237, 223);
+}
