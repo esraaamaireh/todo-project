@@ -146,33 +146,11 @@ table caption h1{font: 4em sans-serif;
 main H2{
     color: rgb(63, 4, 63);
     font-family:"Cursiv Console", "Courier New", monospace;
-}
-legend{ color: rgb(63, 4, 63);
-    font-family: "Cursiv Console", "Courier New", monospace;
-    font-size: larger;
-    font-weight: 1000;
- 
-    border-collapse: collapse;
-}
-form{
-    text-decoration: purple;
-    color: rgb(63, 4, 63);
-    font-family: "Cursiv Console", "Courier New", monospace;
-    font-size: larger;
-    font-weight: bold;
-justify-content: left;
-
-border-collapse: collapse;
-
-}
-footer{
-   position: relative;
-    left: 0;
-    bottom: 0;
-    justify-content: center;
-    text-align: center;
-    width: 100%;
-}
-form  fieldset  label{
-    padding: auto ;
-}
+}footer{
+    position: relative;
+     left: 0;
+     bottom: 0;
+     justify-content: center;
+     text-align: center;
+     width: 100%;
+ }
